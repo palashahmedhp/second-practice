@@ -1,0 +1,55 @@
+body{background-color: skyblue;
+	padding-top: 0px;
+
+
+}
+
+
+
+.nav{background-color: green;
+	display: flex;
+	justify-content: flex-end;	
+
+}
+.nav a{text-decoration: none;
+	color: white;
+padding: 20px;
+}
+.nav a:hover{background-color: blue;
+
+}
+marquee{color: red;
+	background-color: skyblue;
+
+}
+.img img{width: 600px ;
+	padding-top: 25px;
+
+}
+.img{
+
+}
+table,th,td{border:2px solid black;
+
+}
+dl{border: 5px solid yellow;
+	background-color: green;
+border-radius: 5px;
+padding: 5px;
+
+
+}
+.im img{width: 200px;
+
+}
+address{background-color: green;
+	width: 30%;
+}
+dl{ width: 40%;
+padding left: 25px; }
+footer{padding-top: 25px;
+	text-align: center;
+	color: yellow;
+
+}
+
